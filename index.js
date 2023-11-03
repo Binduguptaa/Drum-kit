@@ -12,7 +12,7 @@ for (var i = 0; i < no_btn; i++) {
     });
 
 }
-
+// hello everyone
 //detecting key press
 document.addEventListener("keypress", function (event) {
     makesound(event.key);
